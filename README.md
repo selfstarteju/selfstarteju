@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @selfstarteju
+- 👋 Hi, I’m selfstarteju
 - 👀 I’m interested in coding and electronic
 - 🌱 I’m currently learning Bsc Computer Science
 - ⚡ Fun fact: https://zenodo.org/records/19511030
